@@ -6,3 +6,7 @@
 ***
 **3.** Start writing code for telegram bot now you can check price of BTC sell/buy by command 'price'.
 ***
+**4.** I register account on Google Cloud VDS / VPS.
+***
+**5.** By using FileZilla i connected by sftp protocol to connect my remote machine and upload bot to it.
+***
