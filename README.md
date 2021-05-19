@@ -1,12 +1,18 @@
-# course_work_Sprynskyi_Oleksandr_IK-31
+### course_work_Sprynskyi_Oleksandr_IK-31
 ***
-**1.** Install pyTelegramBotAPI to work & connect to bot in telegram. by command *__pip install pyTelegramBotAPI, telebot__*
+**Create a bot for a telegram which use API & have next commands:**
+* ***price*** - to check current sell/buy BTC
+* ***toss*** - you can check your luck and flip a coin
+* ***fact*** - to get a random fact about number
+* ***joke*** - bot send you joke in random category
+* ***player*** - to see dota 2 profile stats 
 ***
-**2.** Configuration in @BotFather add description, image.
+**Prepare your IDE to use bot you need install next packages by pip:**
+* ***telebot***
+* ***wheel***
+* ***pyTelegramBotAPI***
+* ***requests***
 ***
-**3.** Start writing code for telegram bot now you can check price of BTC sell/buy by command 'price'.
-***
-**4.** I register account on Google Cloud VDS / VPS.
-***
-**5.** By using FileZilla I connected by sftp protocol to connect my remote machine and upload bot to it.
+**To start telegram bot you need use next command**
+* ***python3 main.py***
 ***
