@@ -63,6 +63,7 @@ def player():
     profile_avatar = response["profile"]["avatar"]
     print(f"Author rank tier: {rank_tier}, \n Profile Rank: {profile_rank},\n Profile url: {profile_url}, \n Profile picture: {profile_avatar}")
 
+
 def telegram_bot():
     bot = telebot.TeleBot(token)
 
