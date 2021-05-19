@@ -70,7 +70,7 @@ def telegram_bot():
     @bot.message_handler(commands=["start"])
     def start_message(message):
         bot.send_message(message.chat.id,
-                         "Welcome to telegram bot course work by Sprynskyi Oleksandr IK-31. If you want try me just send me one of this commans:"
+                         "Welcome to telegram bot course work by Sprynskyi Oleksandr IK-31. If you want try me just send me one of this commands:"
                          "\n 'price' - to check current sell/buy BTC\n 'toss' - to toss a coinflip\n 'fact' - to get a random fact about number\n 'joke' - for cool or not joke\n 'player' - to see author steam stats" )
 
     @bot.message_handler(content_types=["text"])
