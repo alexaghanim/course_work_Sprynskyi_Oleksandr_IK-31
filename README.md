@@ -8,5 +8,5 @@
 ***
 **4.** I register account on Google Cloud VDS / VPS.
 ***
-**5.** By using FileZilla i connected by sftp protocol to connect my remote machine and upload bot to it.
+**5.** By using FileZilla I connected by sftp protocol to connect my remote machine and upload bot to it.
 ***
